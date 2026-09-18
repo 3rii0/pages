@@ -87,16 +87,17 @@ Use OCS classes to express roles without hardcoded visual styling.
 
 #### A. Simple: Basic Headings and OCS Lead
 ```html
-<!-- hey -->
-<h1 class="ocs_section-title">it’s me</h1>
-<p class="ocs_lead">it’s verity</p>
+<!-- We use semantic tags for structure and OCS classes for the role. -->
+<h1 class="ocs_section-title">hey</h1>
+<h2 class="ocs_lead">it’s me</h1>
+<p class="ocs_text">it’s verity</p>
 ```
 
 #### B. Intermediate: Adding Emphasis Inside a Component
 ```html
 <!-- Grouping text inside an OCS component while keeping semantic emphasis -->
 <div class="ocs_card">
-  <p class="ocs_text">please <strong>do not</strong> ignore this!!!</p>
+  <p class="ocs_text">please <strong>do not</strong> ignore this!!</p>
   <p class="ocs_text">It is <em>highly recommended</em> to not ignore this!!</p>
 </div>
 ```
