@@ -180,9 +180,9 @@ author: githubID
     }
 </style>
 
-<div class="large-title">I hope</div>
-<span class="sub-title">you are enjoying</span>
-<div class="normal">the lesson!</div>
+<div class="large-title">This is</div>
+<span class="sub-title">a very cool</span>
+<div class="normal">lesson</div>
 ```
 
 ### Homework Hack
