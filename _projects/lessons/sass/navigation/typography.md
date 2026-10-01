@@ -1,19 +1,12 @@
 ---
 layout: post
 assignment: true
-codemirror: true
 title: OCS Semantic HTML & Typography Grammar
 categories: [SASS, Typography]
 lesson_language: SASS
 lesson_topic: Typography
 lesson_part: interactive
 lesson_type: lesson
-lesson_source: OCS
-assignment_submission_type: code
-assignment_creator_uids:
-  - "tristan-chiu0"
-  - "3rii0"
-  - "AVG11235"
 microblog: true
 permalink: /sass/typography
 author: Tristan Chiu, Mateo Durand Amador, Barbara Zhao
@@ -329,15 +322,6 @@ height="400px"
 
 ---
 
-## 7. Lesson Revisions & Feedback Evidence
-* **Feedback Received:** During my peer practice run, my teammate pointed out that my original Popcorn Hack asked them to write a whole HTML page from scratch, which took longer than 5 minutes and killed the lesson's momentum.
-* **Revision Made:** I changed the Popcorn Hack to a simple 3-line refactor that they can do directly in the chat window. This keeps engagement high and takes under 2 minutes.
-
----
-
-## 8. References
-"Typography." *web.dev*, 30 Sept. 2022, https://web.dev/learn/accessibility/typography.
-
-"Page Regions." *Web Accessibility Initiative (WAI)*, World Wide Web Consortium (W3C), 24 Mar. 2026, https://www.w3.org/WAI/tutorials/page-structure/regions/.
-
-"Headings and Paragraphs." *MDN Web Docs*, MDN contributors, 25 Aug. 2026, https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Headings_and_paragraphs.
+## 5. Lesson Revisions & Feedback Evidence
+*   **Feedback Received:** During my peer practice run, my teammate pointed out that my original Popcorn Hack asked them to write a whole HTML page from scratch, which took longer than 5 minutes and killed the lesson's momentum.
+*   **Revision Made:** I changed the Popcorn Hack to a simple 3-line refactor that they can do directly in the chat window. This keeps engagement high and takes under 2 minutes.
